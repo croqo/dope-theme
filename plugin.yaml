@@ -1,0 +1,6 @@
+plugin:
+  name: Gram
+  description: '📎'
+  author: Croqo
+  icon: icon-paper-plane
+  homepage: https://github.com/croqo/gram-plugin
